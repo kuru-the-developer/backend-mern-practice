@@ -1,0 +1,8 @@
+* initialize package.json with "yarn init"
+* configure Babel, Webpack, Nodemon
+    ** .babelrc
+    ** install babel modules through command line
+        *** yarn add --dev @babel/core babel-loader @babel/preset-env
+    ** webpack.config.server.js
+    ** yarn add --dev webpack webpack-cli webpack-node-externals
+    
